@@ -60,7 +60,7 @@ public class InteractWithDropDowns_4 {
         list.click();
 
         Locator files = page.locator("select[name='files']");
-        files.selectOption("Ruby");uyuy
+        files.selectOption("Ruby");
 
     }
 }
