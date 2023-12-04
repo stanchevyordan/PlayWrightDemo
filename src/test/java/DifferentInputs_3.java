@@ -2,7 +2,7 @@ import com.microsoft.playwright.*;
 
 import static com.microsoft.playwright.assertions.PlaywrightAssertions.assertThat;
 
-public class TestPart3 {
+public class DifferentInputs_3 {
     public static void main(String[] args) {
 
         Playwright playwright = Playwright.create();
