@@ -27,7 +27,7 @@ public class FramesAndiFrames_7 {
         FrameLocator nestedFrame = firstFrame.frameLocator("iframe.has-background-white");
         nestedFrame.getByPlaceholder("Enter email").type("yordan.stanchev98@gmail.com");
 
-        firstFrame.getByPlaceholder("Enter name").fill("Yordan Stanchev"); 
+        firstFrame.getByPlaceholder("Enter name").fill("Yordan Stanchev");
 
     }
 }
